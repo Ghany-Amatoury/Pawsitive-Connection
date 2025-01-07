@@ -1,0 +1,2 @@
+# Pawsitive-Connection
+ A web-based platform for pet adoption, allowing users to browse available pets, submit adoption applications, and manage their profiles. The application includes features for shelter admins to add and manage pet listings, review adoption applications, and track adoption statuses. Built with PHP, MySQL, HTML, and CSS, this project aims to simplify the pet adoption process by connecting adopters with shelters. Features include user registration, pet favorites/wishlist, and a donation system for supporting shelters.
